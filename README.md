@@ -1,0 +1,2 @@
+# Gophercise Quiz - Lesson 1
+Started working with the Gophercises.com web site to freshen up my Go skills. This simple app creates a quiz with 2 flags. This app definitely needs some refactoring and some testing added to it.
